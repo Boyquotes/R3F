@@ -1,0 +1,9 @@
+[submodule "R3F-in-practice"]
+	path = R3F-in-practice
+	url = https://github.com/Domenicobrz/R3F-in-practice
+[submodule "r3f-game-demo"]
+	path = r3f-game-demo
+	url = https://github.com/coldi/r3f-game-demo
+[submodule "r3f-scroll-rig"]
+	path = r3f-scroll-rig
+	url = https://github.com/14islands/r3f-scroll-rig.git

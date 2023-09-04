@@ -8,4 +8,4 @@
 - https://github.com/wass08/r3f-vite-starter
 - https://github.com/utsuboco/r3f-perf
 - https://github.com/pmndrs/react-three-flex
-- 
+- https://github.com/14islands/r3f-scroll-rig
