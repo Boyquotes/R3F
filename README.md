@@ -10,6 +10,8 @@
 - https://github.com/pmndrs/react-three-flex
 - https://github.com/14islands/r3f-scroll-rig
 - Helpers  useful helpers for react-three-fiber
+    https://github.com/pmndrs/drei
+    Documentation : https://drei.pmnd.rs/?path=/docs/controls-flycontrols--docs    
 
 AWESOME:     
 - https://github.com/gsimone/awesome-react-three-fiber
