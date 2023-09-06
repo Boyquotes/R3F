@@ -9,3 +9,7 @@
 - https://github.com/utsuboco/r3f-perf
 - https://github.com/pmndrs/react-three-flex
 - https://github.com/14islands/r3f-scroll-rig
+- Helpers  useful helpers for react-three-fiber
+
+AWESOME:     
+- https://github.com/gsimone/awesome-react-three-fiber

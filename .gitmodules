@@ -7,3 +7,6 @@
 [submodule "r3f-scroll-rig"]
 	path = r3f-scroll-rig
 	url = https://github.com/14islands/r3f-scroll-rig.git
+[submodule "multiplayer-game-template"]
+	path = multiplayer-game-template
+	url = https://github.com/Tismas/multiplayer-game-template.git
