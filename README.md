@@ -14,9 +14,13 @@
     Documentation : https://drei.pmnd.rs/?path=/docs/controls-flycontrols--docs    
 - https://github.com/armanmamyan/R3F-learning
 
+- https://github.com/arthur-zhuk/gpt4-blockchain-r3f
+- https://gpt4-blockchain-r3f.vercel.app/
+
 - SOCKET.IO
   - https://github.com/juniorxsound/THREE.Multiplayer
   -https://github.com/juniorxsound/R3F.Multiplayer
+
   
 AWESOME:     
 - https://github.com/gsimone/awesome-react-three-fiber
