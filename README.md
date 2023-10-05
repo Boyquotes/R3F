@@ -17,6 +17,9 @@
 - https://github.com/arthur-zhuk/gpt4-blockchain-r3f
 - https://gpt4-blockchain-r3f.vercel.app/
 
+- https://github.com/Sean-Bradley/BirdMMO
+- https://birdmmo.sbcode.net/
+
 - SOCKET.IO
   - https://github.com/juniorxsound/THREE.Multiplayer
   -https://github.com/juniorxsound/R3F.Multiplayer
