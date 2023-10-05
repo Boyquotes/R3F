@@ -20,6 +20,8 @@
 - https://github.com/Sean-Bradley/BirdMMO
 - https://birdmmo.sbcode.net/
 
+Metaverse-r3f update engine in package.json to node 16.15.0
+
 - SOCKET.IO
   - https://github.com/juniorxsound/THREE.Multiplayer
   -https://github.com/juniorxsound/R3F.Multiplayer
