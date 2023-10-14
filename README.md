@@ -3,6 +3,7 @@
 - https://github.com/Domenicobrz/R3F-in-practice
 - https://github.com/Domenicobrz/R3F-takes-flight/
 - https://github.com/Domenicobrz/R3F-IP-Meteor-Impact
+- https://github.com/pmndrs/racing-game
   
 - https://github.com/coldi/r3f-game-demo
   <img src="images/game-demo.gif" />
